@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\MyFirstApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Response.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Response.cs",
+              "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Response.cs",
+              "RelativeToolTip": "MyFirstApi\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:38:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Program.cs",
+              "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Program.cs",
+              "RelativeToolTip": "MyFirstApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:30:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyFirstApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:16:06.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyFirstApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyFirstApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T12:58:23.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

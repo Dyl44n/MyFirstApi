@@ -37,5 +37,12 @@ namespace MyFirstApi.Controllers
 
             return Created(string.Empty, response);
         }
+
+        [HttpPut]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        public IActionResult Update([FromBody] RequestUpdateUserProfileJson request)
+        {
+            return NoContent();
+        }
     }
 }

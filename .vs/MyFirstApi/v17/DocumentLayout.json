@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\communication\\responses\\responseregistereduserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\communication\\requests\\requestregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\communication\\requests\\requestregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseRegisteredUserJson.cs",
+              "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "RelativeToolTip": "MyFirstApi\\Communication\\Responses\\ResponseRegisteredUserJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:26:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RequestRegisterUserJson.cs",
+              "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Communication\\Requests\\RequestRegisterUserJson.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Communication\\Requests\\RequestRegisterUserJson.cs",
+              "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Communication\\Requests\\RequestRegisterUserJson.cs",
+              "RelativeToolTip": "MyFirstApi\\Communication\\Requests\\RequestRegisterUserJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:16:14.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\User.cs",
               "RelativeDocumentMoniker": "MyFirstApi\\User.cs",
@@ -38,11 +72,12 @@
               "RelativeToolTip": "MyFirstApi\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:38:18.697Z"
+              "WhenOpened": "2024-05-23T14:38:18.697Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Program.cs",
               "RelativeDocumentMoniker": "MyFirstApi\\Program.cs",
@@ -60,14 +95,14 @@
               "RelativeDocumentMoniker": "MyFirstApi\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "MyFirstApi\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T14:16:06.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyFirstApi\\Properties\\launchSettings.json",

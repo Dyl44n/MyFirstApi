@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MyFirstApi.Entities;
 
 namespace MyFirstApi.Controllers
 {
@@ -7,8 +8,13 @@ namespace MyFirstApi.Controllers
         [HttpGet]
         public IActionResult Get()
         {
+            var laptop = new Laptop();
 
-            return Ok(Author);
+            var x = laptop.IsConnected();
+
+            var model = laptop.GetModel();
+
+            return Ok(model);
         }
     }
 }

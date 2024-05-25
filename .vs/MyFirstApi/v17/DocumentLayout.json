@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\entities\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\entities\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\entities\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\entities\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\controllers\\myfirstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\controllers\\myfirstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2702B5D-671F-4FE8-9C4A-370CDCF0AEB5}|MyFirstApi\\MyFirstApi.csproj|c:\\workspace\\myfirstapi\\myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Entities\\Smartphone.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Entities\\Smartphone.cs",
+              "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Entities\\Smartphone.cs",
+              "RelativeToolTip": "MyFirstApi\\Entities\\Smartphone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:03:20.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Entities\\Laptop.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Entities\\Laptop.cs",
+              "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Entities\\Laptop.cs",
+              "RelativeToolTip": "MyFirstApi\\Entities\\Laptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:03:07.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Entities\\Device.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Entities\\Device.cs",
+              "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Entities\\Device.cs",
+              "RelativeToolTip": "MyFirstApi\\Entities\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:02:54.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MyFirstApiBaseController.cs",
               "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Controllers\\MyFirstApiBaseController.cs",
               "RelativeDocumentMoniker": "MyFirstApi\\Controllers\\MyFirstApiBaseController.cs",
@@ -45,14 +96,14 @@
               "RelativeDocumentMoniker": "MyFirstApi\\Controllers\\DeviceController.cs",
               "ToolTip": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Controllers\\DeviceController.cs",
               "RelativeToolTip": "MyFirstApi\\Controllers\\DeviceController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T17:31:26.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Workspace\\MyFirstApi\\MyFirstApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MyFirstApi\\Controllers\\UserController.cs",

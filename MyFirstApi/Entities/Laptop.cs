@@ -5,7 +5,13 @@
     {
         public override string GetBrand()
         {
+            
             return "Apple";
+        }
+
+        public override string Hello()
+        {
+            return "Gabriel";
         }
 
         public string GetModel()

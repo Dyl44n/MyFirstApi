@@ -8,11 +8,10 @@ namespace MyFirstApi.Controllers
         [HttpGet]
         public IActionResult Get()
         {
+
             var laptop = new Laptop();
 
-            var x = laptop.IsConnected();
-
-            var model = laptop.GetModel();
+            var model = laptop.GetBrand();
 
             return Ok(model);
         }

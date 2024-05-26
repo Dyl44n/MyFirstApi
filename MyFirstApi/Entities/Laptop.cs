@@ -1,7 +1,7 @@
 ﻿namespace MyFirstApi.Entities
 {
 
-    public sealed class Laptop : Device
+    public  class Laptop : Device
     {
         public override string GetBrand()
         {

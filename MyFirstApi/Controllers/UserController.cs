@@ -61,7 +61,11 @@ namespace MyFirstApi.Controllers
                 new User { Id = 2, Age = 20, Name = "Maria" }
             };
 
-            return Ok(response);
+
+
+            var key = GetCustomKey();
+
+            return Ok(key);
 
         }
 

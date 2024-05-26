@@ -8,14 +8,9 @@ namespace MyFirstApi.Controllers
         [HttpGet]
         public IActionResult Get()
         {
+            var key = GetCustomKey();
 
-            var laptop = new Laptop();
-
-            var test = laptop.Hello();
-
-            var model = laptop.GetBrand();
-
-            return Ok(model);
+            return Ok(key);
         }
     }
 }
